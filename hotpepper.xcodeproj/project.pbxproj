@@ -1,0 +1,426 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A48FCE1F1B3BF791004F778E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48FCE1E1B3BF791004F778E /* AppDelegate.swift */; };
+		A48FCE211B3BF791004F778E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48FCE201B3BF791004F778E /* ViewController.swift */; };
+		A48FCE241B3BF791004F778E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A48FCE221B3BF791004F778E /* Main.storyboard */; };
+		A48FCE261B3BF791004F778E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A48FCE251B3BF791004F778E /* Images.xcassets */; };
+		A48FCE291B3BF791004F778E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A48FCE271B3BF791004F778E /* LaunchScreen.xib */; };
+		A48FCE351B3BF791004F778E /* hotpepperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A48FCE341B3BF791004F778E /* hotpepperTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A48FCE2F1B3BF791004F778E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A48FCE111B3BF791004F778E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A48FCE181B3BF791004F778E;
+			remoteInfo = hotpepper;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		A48FCE191B3BF791004F778E /* hotpepper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hotpepper.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A48FCE1D1B3BF791004F778E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A48FCE1E1B3BF791004F778E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A48FCE201B3BF791004F778E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		A48FCE231B3BF791004F778E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A48FCE251B3BF791004F778E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A48FCE281B3BF791004F778E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		A48FCE2E1B3BF791004F778E /* hotpepperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hotpepperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A48FCE331B3BF791004F778E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A48FCE341B3BF791004F778E /* hotpepperTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hotpepperTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A48FCE161B3BF791004F778E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A48FCE2B1B3BF791004F778E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A48FCE101B3BF791004F778E = {
+			isa = PBXGroup;
+			children = (
+				A48FCE1B1B3BF791004F778E /* hotpepper */,
+				A48FCE311B3BF791004F778E /* hotpepperTests */,
+				A48FCE1A1B3BF791004F778E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A48FCE1A1B3BF791004F778E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A48FCE191B3BF791004F778E /* hotpepper.app */,
+				A48FCE2E1B3BF791004F778E /* hotpepperTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A48FCE1B1B3BF791004F778E /* hotpepper */ = {
+			isa = PBXGroup;
+			children = (
+				A48FCE1E1B3BF791004F778E /* AppDelegate.swift */,
+				A48FCE201B3BF791004F778E /* ViewController.swift */,
+				A48FCE221B3BF791004F778E /* Main.storyboard */,
+				A48FCE251B3BF791004F778E /* Images.xcassets */,
+				A48FCE271B3BF791004F778E /* LaunchScreen.xib */,
+				A48FCE1C1B3BF791004F778E /* Supporting Files */,
+			);
+			path = hotpepper;
+			sourceTree = "<group>";
+		};
+		A48FCE1C1B3BF791004F778E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A48FCE1D1B3BF791004F778E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A48FCE311B3BF791004F778E /* hotpepperTests */ = {
+			isa = PBXGroup;
+			children = (
+				A48FCE341B3BF791004F778E /* hotpepperTests.swift */,
+				A48FCE321B3BF791004F778E /* Supporting Files */,
+			);
+			path = hotpepperTests;
+			sourceTree = "<group>";
+		};
+		A48FCE321B3BF791004F778E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A48FCE331B3BF791004F778E /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A48FCE181B3BF791004F778E /* hotpepper */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A48FCE381B3BF791004F778E /* Build configuration list for PBXNativeTarget "hotpepper" */;
+			buildPhases = (
+				A48FCE151B3BF791004F778E /* Sources */,
+				A48FCE161B3BF791004F778E /* Frameworks */,
+				A48FCE171B3BF791004F778E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = hotpepper;
+			productName = hotpepper;
+			productReference = A48FCE191B3BF791004F778E /* hotpepper.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A48FCE2D1B3BF791004F778E /* hotpepperTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A48FCE3B1B3BF791004F778E /* Build configuration list for PBXNativeTarget "hotpepperTests" */;
+			buildPhases = (
+				A48FCE2A1B3BF791004F778E /* Sources */,
+				A48FCE2B1B3BF791004F778E /* Frameworks */,
+				A48FCE2C1B3BF791004F778E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A48FCE301B3BF791004F778E /* PBXTargetDependency */,
+			);
+			name = hotpepperTests;
+			productName = hotpepperTests;
+			productReference = A48FCE2E1B3BF791004F778E /* hotpepperTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A48FCE111B3BF791004F778E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+				ORGANIZATIONNAME = NextVanguard;
+				TargetAttributes = {
+					A48FCE181B3BF791004F778E = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
+					A48FCE2D1B3BF791004F778E = {
+						CreatedOnToolsVersion = 6.3.2;
+						TestTargetID = A48FCE181B3BF791004F778E;
+					};
+				};
+			};
+			buildConfigurationList = A48FCE141B3BF791004F778E /* Build configuration list for PBXProject "hotpepper" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A48FCE101B3BF791004F778E;
+			productRefGroup = A48FCE1A1B3BF791004F778E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A48FCE181B3BF791004F778E /* hotpepper */,
+				A48FCE2D1B3BF791004F778E /* hotpepperTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A48FCE171B3BF791004F778E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A48FCE241B3BF791004F778E /* Main.storyboard in Resources */,
+				A48FCE291B3BF791004F778E /* LaunchScreen.xib in Resources */,
+				A48FCE261B3BF791004F778E /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A48FCE2C1B3BF791004F778E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A48FCE151B3BF791004F778E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A48FCE211B3BF791004F778E /* ViewController.swift in Sources */,
+				A48FCE1F1B3BF791004F778E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A48FCE2A1B3BF791004F778E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A48FCE351B3BF791004F778E /* hotpepperTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A48FCE301B3BF791004F778E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A48FCE181B3BF791004F778E /* hotpepper */;
+			targetProxy = A48FCE2F1B3BF791004F778E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A48FCE221B3BF791004F778E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A48FCE231B3BF791004F778E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A48FCE271B3BF791004F778E /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A48FCE281B3BF791004F778E /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A48FCE361B3BF791004F778E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A48FCE371B3BF791004F778E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A48FCE391B3BF791004F778E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = hotpepper/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		A48FCE3A1B3BF791004F778E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = hotpepper/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		A48FCE3C1B3BF791004F778E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = hotpepperTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hotpepper.app/hotpepper";
+			};
+			name = Debug;
+		};
+		A48FCE3D1B3BF791004F778E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = hotpepperTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hotpepper.app/hotpepper";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A48FCE141B3BF791004F778E /* Build configuration list for PBXProject "hotpepper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A48FCE361B3BF791004F778E /* Debug */,
+				A48FCE371B3BF791004F778E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A48FCE381B3BF791004F778E /* Build configuration list for PBXNativeTarget "hotpepper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A48FCE391B3BF791004F778E /* Debug */,
+				A48FCE3A1B3BF791004F778E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		A48FCE3B1B3BF791004F778E /* Build configuration list for PBXNativeTarget "hotpepperTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A48FCE3C1B3BF791004F778E /* Debug */,
+				A48FCE3D1B3BF791004F778E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A48FCE111B3BF791004F778E /* Project object */;
+}
