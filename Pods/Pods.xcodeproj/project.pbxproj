@@ -1,0 +1,1077 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		276B7B8169AE6155AADA51FC /* Pods-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CB0F7E6C2FA369D4EE22F5F9 /* Pods-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2D6D20EED2DEE6385D0C86D5 /* Pods-hotpepper-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A785BD45DD4968961348B63 /* Pods-hotpepper-dummy.m */; };
+		34F001B346B28D6A3CAB6FA6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8543422D84E71F0FE93B3C /* Foundation.framework */; };
+		4A9F498DA61749EB83D25406 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD8EDDA975881CD1AC5856E /* SwiftyJSON.swift */; };
+		6C8EEF906C1FBC99C42A434A /* Pods-hotpepper-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E6E7C3C11A2CF5FF35F2B236 /* Pods-hotpepper-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7497903F84C6EE848088151C /* Pods-SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CE964F64331DE05E4C0298E4 /* Pods-SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7F188AE0DD04EF3921A9CED8 /* Pods-hotpepper-SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B7300B5E7CE6F41140FD32D6 /* Pods-hotpepper-SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		81F5F21CC4E354A7379CAAF9 /* Pods-hotpepperTests-SwiftyJSON-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A5883C2B0771B018590B6ABF /* Pods-hotpepperTests-SwiftyJSON-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		890FAB63E6F997E7163F0051 /* Pods-hotpepper-SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F96B6C59AE5E93DE8F544E5 /* Pods-hotpepper-SwiftyJSON-dummy.m */; };
+		9E6C030B7FCCA971351E5DBD /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD8EDDA975881CD1AC5856E /* SwiftyJSON.swift */; };
+		A634EEEAECE83C77A26572D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8543422D84E71F0FE93B3C /* Foundation.framework */; };
+		ADE4D07B7103ABEF0A72C4DA /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD8EDDA975881CD1AC5856E /* SwiftyJSON.swift */; };
+		B9973BE0A23E0698B431B9CD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8543422D84E71F0FE93B3C /* Foundation.framework */; };
+		BA5D420828B1CD537674A2C1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8543422D84E71F0FE93B3C /* Foundation.framework */; };
+		BD75FDE8D0567A2336A6A59F /* Pods-hotpepperTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 03C3D2B1BAE05A00F9FB23B2 /* Pods-hotpepperTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C8C8C23814EA2E82617062F7 /* Pods-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 72801C46CACBA31526544F02 /* Pods-dummy.m */; };
+		CD737D4DEC7351B8E77A6675 /* Pods-hotpepperTests-SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 063C05C2E93ED3B94E1E28BA /* Pods-hotpepperTests-SwiftyJSON-dummy.m */; };
+		D34EF9B84BACCC3CAF248AAB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8543422D84E71F0FE93B3C /* Foundation.framework */; };
+		D61F01A013C164F3005958FA /* Pods-hotpepperTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 39BC47CA07CD9561EE986945 /* Pods-hotpepperTests-dummy.m */; };
+		E81613F6943C4D1E73A8B024 /* Pods-SwiftyJSON-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F99A2B223E775102E7B0F51B /* Pods-SwiftyJSON-dummy.m */; };
+		FE7E6905C805F5642283CDB9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC8543422D84E71F0FE93B3C /* Foundation.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		32D74C028EB89EE3812B1394 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0888904C1E76FACAF10DC6A8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2535FC6980C6E89BD6F32913;
+			remoteInfo = "Pods-hotpepperTests-SwiftyJSON";
+		};
+		5FA99FC61CFDAF81FDA96738 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0888904C1E76FACAF10DC6A8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 95577D85B011C4C199782CDD;
+			remoteInfo = "Pods-SwiftyJSON";
+		};
+		74F1D081A46357F79B9960D4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0888904C1E76FACAF10DC6A8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6F01C32DB8F40C7962911966;
+			remoteInfo = "Pods-hotpepper-SwiftyJSON";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		03C3D2B1BAE05A00F9FB23B2 /* Pods-hotpepperTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-hotpepperTests-umbrella.h"; sourceTree = "<group>"; };
+		03E08078C1C5157151F69934 /* Pods-hotpepper.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-hotpepper.modulemap"; sourceTree = "<group>"; };
+		063C05C2E93ED3B94E1E28BA /* Pods-hotpepperTests-SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-hotpepperTests-SwiftyJSON-dummy.m"; path = "../Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		0C7C96B7625C778A8A144FF1 /* Pods-SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+		1E255805D4E352B0E5645330 /* Pods-hotpepperTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-hotpepperTests.modulemap"; sourceTree = "<group>"; };
+		247125EE97EF866E35211CC0 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2B51910204DAB44543B1D55F /* Pods-hotpepperTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hotpepperTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2F7848D0EC23983E382B42E9 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		30564156405A7AF2C6DF7502 /* Pods-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-resources.sh"; sourceTree = "<group>"; };
+		30D86C7704CB6FDEE2ECE180 /* Pods.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Pods.modulemap; sourceTree = "<group>"; };
+		34898F66A6889D0187B55753 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pods.release.xcconfig; sourceTree = "<group>"; };
+		34A2BA226A37CDDEA89C5DE0 /* Pods-hotpepperTests-SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; name = "Pods-hotpepperTests-SwiftyJSON.modulemap"; path = "../Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON.modulemap"; sourceTree = "<group>"; };
+		39BC47CA07CD9561EE986945 /* Pods-hotpepperTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-hotpepperTests-dummy.m"; sourceTree = "<group>"; };
+		3A95F8311C0C8BA4ED56CF96 /* Pods-hotpepperTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-hotpepperTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		44D4AE79F3A755F2B495B876 /* Pods-hotpepperTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-hotpepperTests-resources.sh"; sourceTree = "<group>"; };
+		4B5D695607E6F6E9BE052A66 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C20FC2D631EC6D6E710C958 /* Pods-hotpepper-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-hotpepper-resources.sh"; sourceTree = "<group>"; };
+		4FA5E9DEB83F79AD762CF5E4 /* Pods-hotpepper-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-hotpepper-environment.h"; sourceTree = "<group>"; };
+		50D0E065F5C19AC0B9B0D57E /* Pods_hotpepper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_hotpepper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		576ED36E8CF4D87336FA3860 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BED6F3C28DCFC6422AF2A1D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5C7C280C203FB8651BB40546 /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5FD8EDDA975881CD1AC5856E /* SwiftyJSON.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = Source/SwiftyJSON.swift; sourceTree = "<group>"; };
+		6449D559551B811DBE0BAD0D /* Pods-hotpepperTests-SwiftyJSON-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hotpepperTests-SwiftyJSON-Private.xcconfig"; path = "../Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON-Private.xcconfig"; sourceTree = "<group>"; };
+		6D5963F806AAC759EEB47457 /* Pods-SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SwiftyJSON.modulemap"; sourceTree = "<group>"; };
+		6DD68126BD5C8F03D05364C0 /* Pods-hotpepperTests-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-hotpepperTests-environment.h"; sourceTree = "<group>"; };
+		71D5E21269514411EF219489 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72801C46CACBA31526544F02 /* Pods-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-dummy.m"; sourceTree = "<group>"; };
+		7340CC9AB42AD38C1B3E801F /* Pods-environment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-environment.h"; sourceTree = "<group>"; };
+		73B1CB4FB2783DBCC3773D60 /* Pods-hotpepper-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-hotpepper-acknowledgements.plist"; sourceTree = "<group>"; };
+		7446641D50C917561690FFF2 /* Pods-hotpepper-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-hotpepper-acknowledgements.markdown"; sourceTree = "<group>"; };
+		7A785BD45DD4968961348B63 /* Pods-hotpepper-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-hotpepper-dummy.m"; sourceTree = "<group>"; };
+		7FE1D7656847A006B9A18728 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Pods.debug.xcconfig; sourceTree = "<group>"; };
+		8CD223988CC16526F0B95851 /* Pods-hotpepper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hotpepper.release.xcconfig"; sourceTree = "<group>"; };
+		8EC8288F5957B40B2207307C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Pods-hotpepper-SwiftyJSON/Info.plist"; sourceTree = "<group>"; };
+		8F96B6C59AE5E93DE8F544E5 /* Pods-hotpepper-SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "Pods-hotpepper-SwiftyJSON-dummy.m"; path = "../Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		91B2B0AB01BBD201B8B3D183 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AE50D74DA14292F8A2AE620 /* Pods-hotpepper-SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-hotpepper-SwiftyJSON-prefix.pch"; path = "../Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+		9E7EAF0129979A8A155B42E8 /* Pods-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-acknowledgements.plist"; sourceTree = "<group>"; };
+		A187FB77DE67162CE8C6DF9E /* Pods-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-frameworks.sh"; sourceTree = "<group>"; };
+		A3B29DDED164130F45976498 /* Pods-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-acknowledgements.markdown"; sourceTree = "<group>"; };
+		A5883C2B0771B018590B6ABF /* Pods-hotpepperTests-SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-hotpepperTests-SwiftyJSON-umbrella.h"; path = "../Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		A927682F877B161D44FFB34C /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC1DE1E81FF14A64FE3EF786 /* Pods-SwiftyJSON-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftyJSON-Private.xcconfig"; sourceTree = "<group>"; };
+		B57E5B016AA921193BD7E88C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../Pods-hotpepperTests-SwiftyJSON/Info.plist"; sourceTree = "<group>"; };
+		B7300B5E7CE6F41140FD32D6 /* Pods-hotpepper-SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-hotpepper-SwiftyJSON-umbrella.h"; path = "../Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		BCEC43D1D7A4D83FA559DE58 /* Pods-hotpepperTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-hotpepperTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		C2A2AB424FAC2540F98D80C3 /* Pods-SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftyJSON.xcconfig"; sourceTree = "<group>"; };
+		CB0F7E6C2FA369D4EE22F5F9 /* Pods-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-umbrella.h"; sourceTree = "<group>"; };
+		CC8543422D84E71F0FE93B3C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		CE3A29BC15C818BD6B6BB1AD /* Pods-hotpepper-SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; name = "Pods-hotpepper-SwiftyJSON.modulemap"; path = "../Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON.modulemap"; sourceTree = "<group>"; };
+		CE964F64331DE05E4C0298E4 /* Pods-SwiftyJSON-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SwiftyJSON-umbrella.h"; sourceTree = "<group>"; };
+		D6966760D926A63E503CBA1A /* Pods-hotpepper-SwiftyJSON-Private.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hotpepper-SwiftyJSON-Private.xcconfig"; path = "../Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON-Private.xcconfig"; sourceTree = "<group>"; };
+		DA054903E47BADAF9D78BE01 /* Pods-hotpepper-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-hotpepper-frameworks.sh"; sourceTree = "<group>"; };
+		DAA1150DFE9E51F1D8F85595 /* Pods-hotpepper-SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hotpepper-SwiftyJSON.xcconfig"; path = "../Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON.xcconfig"; sourceTree = "<group>"; };
+		DD0C84D5BC37436CFB1513BC /* Pods-hotpepperTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hotpepperTests.release.xcconfig"; sourceTree = "<group>"; };
+		E6E7C3C11A2CF5FF35F2B236 /* Pods-hotpepper-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-hotpepper-umbrella.h"; sourceTree = "<group>"; };
+		F0BB4603F565CDBAA8C42C75 /* Pods_hotpepperTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_hotpepperTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F5BDE9178664C63E4CC4B751 /* Pods-hotpepperTests-SwiftyJSON.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-hotpepperTests-SwiftyJSON.xcconfig"; path = "../Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON.xcconfig"; sourceTree = "<group>"; };
+		F99A2B223E775102E7B0F51B /* Pods-SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
+		FAD87E0D333BC383608A6E7F /* Pods-hotpepperTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-hotpepperTests-frameworks.sh"; sourceTree = "<group>"; };
+		FD16AC8D5989EB691218A27A /* Pods-hotpepper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-hotpepper.debug.xcconfig"; sourceTree = "<group>"; };
+		FFC9C8DCEFF0D5463EF58B84 /* Pods-hotpepperTests-SwiftyJSON-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "Pods-hotpepperTests-SwiftyJSON-prefix.pch"; path = "../Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON-prefix.pch"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		238BC6CA5EC1816346E4B99C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9973BE0A23E0698B431B9CD /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		26AF9C1B0A12BD88DFCE47BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D34EF9B84BACCC3CAF248AAB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4A2FA2FBBF248BA4886A275F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FE7E6905C805F5642283CDB9 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7B643C69703272B11F99B0EA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				34F001B346B28D6A3CAB6FA6 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C5EB4B8ACCA055DC0B4C29A7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA5D420828B1CD537674A2C1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F7228AB6C138DA358DA2CD46 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A634EEEAECE83C77A26572D2 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2A1CC0D2FC72AEBF26086917 /* Pods-hotpepper */ = {
+			isa = PBXGroup;
+			children = (
+				4B5D695607E6F6E9BE052A66 /* Info.plist */,
+				03E08078C1C5157151F69934 /* Pods-hotpepper.modulemap */,
+				7446641D50C917561690FFF2 /* Pods-hotpepper-acknowledgements.markdown */,
+				73B1CB4FB2783DBCC3773D60 /* Pods-hotpepper-acknowledgements.plist */,
+				7A785BD45DD4968961348B63 /* Pods-hotpepper-dummy.m */,
+				4FA5E9DEB83F79AD762CF5E4 /* Pods-hotpepper-environment.h */,
+				DA054903E47BADAF9D78BE01 /* Pods-hotpepper-frameworks.sh */,
+				4C20FC2D631EC6D6E710C958 /* Pods-hotpepper-resources.sh */,
+				E6E7C3C11A2CF5FF35F2B236 /* Pods-hotpepper-umbrella.h */,
+				FD16AC8D5989EB691218A27A /* Pods-hotpepper.debug.xcconfig */,
+				8CD223988CC16526F0B95851 /* Pods-hotpepper.release.xcconfig */,
+			);
+			name = "Pods-hotpepper";
+			path = "Target Support Files/Pods-hotpepper";
+			sourceTree = "<group>";
+		};
+		2DC0B4CF95A28BC0FC3F7791 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CC8543422D84E71F0FE93B3C /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		384C9F011AB01452FE13CB2D /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				4EF28D52E785A8A4F3D053E9 /* Pods */,
+				2A1CC0D2FC72AEBF26086917 /* Pods-hotpepper */,
+				81D8CCC167F7A660AA12F45E /* Pods-hotpepperTests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		4EF28D52E785A8A4F3D053E9 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				71D5E21269514411EF219489 /* Info.plist */,
+				30D86C7704CB6FDEE2ECE180 /* Pods.modulemap */,
+				A3B29DDED164130F45976498 /* Pods-acknowledgements.markdown */,
+				9E7EAF0129979A8A155B42E8 /* Pods-acknowledgements.plist */,
+				72801C46CACBA31526544F02 /* Pods-dummy.m */,
+				7340CC9AB42AD38C1B3E801F /* Pods-environment.h */,
+				A187FB77DE67162CE8C6DF9E /* Pods-frameworks.sh */,
+				30564156405A7AF2C6DF7502 /* Pods-resources.sh */,
+				CB0F7E6C2FA369D4EE22F5F9 /* Pods-umbrella.h */,
+				7FE1D7656847A006B9A18728 /* Pods.debug.xcconfig */,
+				34898F66A6889D0187B55753 /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			path = "Target Support Files/Pods";
+			sourceTree = "<group>";
+		};
+		75DC08EA028449BD3EAB514E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2DC0B4CF95A28BC0FC3F7791 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		81D8CCC167F7A660AA12F45E /* Pods-hotpepperTests */ = {
+			isa = PBXGroup;
+			children = (
+				5BED6F3C28DCFC6422AF2A1D /* Info.plist */,
+				1E255805D4E352B0E5645330 /* Pods-hotpepperTests.modulemap */,
+				3A95F8311C0C8BA4ED56CF96 /* Pods-hotpepperTests-acknowledgements.markdown */,
+				BCEC43D1D7A4D83FA559DE58 /* Pods-hotpepperTests-acknowledgements.plist */,
+				39BC47CA07CD9561EE986945 /* Pods-hotpepperTests-dummy.m */,
+				6DD68126BD5C8F03D05364C0 /* Pods-hotpepperTests-environment.h */,
+				FAD87E0D333BC383608A6E7F /* Pods-hotpepperTests-frameworks.sh */,
+				44D4AE79F3A755F2B495B876 /* Pods-hotpepperTests-resources.sh */,
+				03C3D2B1BAE05A00F9FB23B2 /* Pods-hotpepperTests-umbrella.h */,
+				2B51910204DAB44543B1D55F /* Pods-hotpepperTests.debug.xcconfig */,
+				DD0C84D5BC37436CFB1513BC /* Pods-hotpepperTests.release.xcconfig */,
+			);
+			name = "Pods-hotpepperTests";
+			path = "Target Support Files/Pods-hotpepperTests";
+			sourceTree = "<group>";
+		};
+		C105FE298C1ABB255DE08319 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2F7848D0EC23983E382B42E9 /* Pods.framework */,
+				50D0E065F5C19AC0B9B0D57E /* Pods_hotpepper.framework */,
+				F0BB4603F565CDBAA8C42C75 /* Pods_hotpepperTests.framework */,
+				A927682F877B161D44FFB34C /* SwiftyJSON.framework */,
+				247125EE97EF866E35211CC0 /* SwiftyJSON.framework */,
+				576ED36E8CF4D87336FA3860 /* SwiftyJSON.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D324817DAA71AC8D10CA092D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F4AC126B63414194AA98BF32 /* SwiftyJSON */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		E83E415AFC43E7D9C7C21722 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8EC8288F5957B40B2207307C /* Info.plist */,
+				B57E5B016AA921193BD7E88C /* Info.plist */,
+				91B2B0AB01BBD201B8B3D183 /* Info.plist */,
+				6D5963F806AAC759EEB47457 /* Pods-SwiftyJSON.modulemap */,
+				C2A2AB424FAC2540F98D80C3 /* Pods-SwiftyJSON.xcconfig */,
+				AC1DE1E81FF14A64FE3EF786 /* Pods-SwiftyJSON-Private.xcconfig */,
+				F99A2B223E775102E7B0F51B /* Pods-SwiftyJSON-dummy.m */,
+				0C7C96B7625C778A8A144FF1 /* Pods-SwiftyJSON-prefix.pch */,
+				CE964F64331DE05E4C0298E4 /* Pods-SwiftyJSON-umbrella.h */,
+				CE3A29BC15C818BD6B6BB1AD /* Pods-hotpepper-SwiftyJSON.modulemap */,
+				DAA1150DFE9E51F1D8F85595 /* Pods-hotpepper-SwiftyJSON.xcconfig */,
+				D6966760D926A63E503CBA1A /* Pods-hotpepper-SwiftyJSON-Private.xcconfig */,
+				8F96B6C59AE5E93DE8F544E5 /* Pods-hotpepper-SwiftyJSON-dummy.m */,
+				9AE50D74DA14292F8A2AE620 /* Pods-hotpepper-SwiftyJSON-prefix.pch */,
+				B7300B5E7CE6F41140FD32D6 /* Pods-hotpepper-SwiftyJSON-umbrella.h */,
+				34A2BA226A37CDDEA89C5DE0 /* Pods-hotpepperTests-SwiftyJSON.modulemap */,
+				F5BDE9178664C63E4CC4B751 /* Pods-hotpepperTests-SwiftyJSON.xcconfig */,
+				6449D559551B811DBE0BAD0D /* Pods-hotpepperTests-SwiftyJSON-Private.xcconfig */,
+				063C05C2E93ED3B94E1E28BA /* Pods-hotpepperTests-SwiftyJSON-dummy.m */,
+				FFC9C8DCEFF0D5463EF58B84 /* Pods-hotpepperTests-SwiftyJSON-prefix.pch */,
+				A5883C2B0771B018590B6ABF /* Pods-hotpepperTests-SwiftyJSON-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/Pods-SwiftyJSON";
+			sourceTree = "<group>";
+		};
+		F4AC126B63414194AA98BF32 /* SwiftyJSON */ = {
+			isa = PBXGroup;
+			children = (
+				5FD8EDDA975881CD1AC5856E /* SwiftyJSON.swift */,
+				E83E415AFC43E7D9C7C21722 /* Support Files */,
+			);
+			path = SwiftyJSON;
+			sourceTree = "<group>";
+		};
+		FD46F51B3A3750317F270E9B = {
+			isa = PBXGroup;
+			children = (
+				5C7C280C203FB8651BB40546 /* Podfile */,
+				75DC08EA028449BD3EAB514E /* Frameworks */,
+				D324817DAA71AC8D10CA092D /* Pods */,
+				C105FE298C1ABB255DE08319 /* Products */,
+				384C9F011AB01452FE13CB2D /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		216C0066FD895DDE913BB2FA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				276B7B8169AE6155AADA51FC /* Pods-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		24D7C4A4B93010F71FB61274 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7497903F84C6EE848088151C /* Pods-SwiftyJSON-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3367034DD42C3163D4A8C537 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C8EEF906C1FBC99C42A434A /* Pods-hotpepper-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5CBE543B76A3A1EF63190646 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BD75FDE8D0567A2336A6A59F /* Pods-hotpepperTests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		878C5F7AA527A16926FBB50B /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F188AE0DD04EF3921A9CED8 /* Pods-hotpepper-SwiftyJSON-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E914681AF1F4705B064A207F /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81F5F21CC4E354A7379CAAF9 /* Pods-hotpepperTests-SwiftyJSON-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2535FC6980C6E89BD6F32913 /* Pods-hotpepperTests-SwiftyJSON */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F87EA315E1E54061CB4CF5EE /* Build configuration list for PBXNativeTarget "Pods-hotpepperTests-SwiftyJSON" */;
+			buildPhases = (
+				05818C1DB840849711EE3D6F /* Sources */,
+				C5EB4B8ACCA055DC0B4C29A7 /* Frameworks */,
+				E914681AF1F4705B064A207F /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-hotpepperTests-SwiftyJSON";
+			productName = "Pods-hotpepperTests-SwiftyJSON";
+			productReference = A927682F877B161D44FFB34C /* SwiftyJSON.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		321BF25837CEFC72BDD17028 /* Pods */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 618213AA85B43D0FFCEED2A1 /* Build configuration list for PBXNativeTarget "Pods" */;
+			buildPhases = (
+				4CB24FF7C580433D7BE6893D /* Sources */,
+				F7228AB6C138DA358DA2CD46 /* Frameworks */,
+				216C0066FD895DDE913BB2FA /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8B39843DDC1E09851FB92A2E /* PBXTargetDependency */,
+			);
+			name = Pods;
+			productName = Pods;
+			productReference = 2F7848D0EC23983E382B42E9 /* Pods.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		6F01C32DB8F40C7962911966 /* Pods-hotpepper-SwiftyJSON */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0EB11678520A89235EDD75D6 /* Build configuration list for PBXNativeTarget "Pods-hotpepper-SwiftyJSON" */;
+			buildPhases = (
+				829F7A60B746E822F29748FF /* Sources */,
+				238BC6CA5EC1816346E4B99C /* Frameworks */,
+				878C5F7AA527A16926FBB50B /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-hotpepper-SwiftyJSON";
+			productName = "Pods-hotpepper-SwiftyJSON";
+			productReference = 247125EE97EF866E35211CC0 /* SwiftyJSON.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		788BB26BDC196BE587C81D89 /* Pods-hotpepper */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CDD56882791A50158FC1C8D1 /* Build configuration list for PBXNativeTarget "Pods-hotpepper" */;
+			buildPhases = (
+				A641D2068E461F95CB644904 /* Sources */,
+				4A2FA2FBBF248BA4886A275F /* Frameworks */,
+				3367034DD42C3163D4A8C537 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				755FBC21991864EEE086200A /* PBXTargetDependency */,
+			);
+			name = "Pods-hotpepper";
+			productName = "Pods-hotpepper";
+			productReference = 50D0E065F5C19AC0B9B0D57E /* Pods_hotpepper.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		95577D85B011C4C199782CDD /* Pods-SwiftyJSON */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B061E78294DBCA20B1D9DDF /* Build configuration list for PBXNativeTarget "Pods-SwiftyJSON" */;
+			buildPhases = (
+				610A66FB38DDA971BDEBB1CD /* Sources */,
+				26AF9C1B0A12BD88DFCE47BF /* Frameworks */,
+				24D7C4A4B93010F71FB61274 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-SwiftyJSON";
+			productName = "Pods-SwiftyJSON";
+			productReference = 576ED36E8CF4D87336FA3860 /* SwiftyJSON.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		C30ABC0E81FC3466BF2B7CA2 /* Pods-hotpepperTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C3076F374B01360C63B5478F /* Build configuration list for PBXNativeTarget "Pods-hotpepperTests" */;
+			buildPhases = (
+				8A5AAA0A356351C6B663E2FA /* Sources */,
+				7B643C69703272B11F99B0EA /* Frameworks */,
+				5CBE543B76A3A1EF63190646 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E919F116C001242373A78D54 /* PBXTargetDependency */,
+			);
+			name = "Pods-hotpepperTests";
+			productName = "Pods-hotpepperTests";
+			productReference = F0BB4603F565CDBAA8C42C75 /* Pods_hotpepperTests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0888904C1E76FACAF10DC6A8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = 5B09B11D5EA643805D418B4E /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FD46F51B3A3750317F270E9B;
+			productRefGroup = C105FE298C1ABB255DE08319 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				321BF25837CEFC72BDD17028 /* Pods */,
+				95577D85B011C4C199782CDD /* Pods-SwiftyJSON */,
+				788BB26BDC196BE587C81D89 /* Pods-hotpepper */,
+				6F01C32DB8F40C7962911966 /* Pods-hotpepper-SwiftyJSON */,
+				C30ABC0E81FC3466BF2B7CA2 /* Pods-hotpepperTests */,
+				2535FC6980C6E89BD6F32913 /* Pods-hotpepperTests-SwiftyJSON */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		05818C1DB840849711EE3D6F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD737D4DEC7351B8E77A6675 /* Pods-hotpepperTests-SwiftyJSON-dummy.m in Sources */,
+				9E6C030B7FCCA971351E5DBD /* SwiftyJSON.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4CB24FF7C580433D7BE6893D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C8C8C23814EA2E82617062F7 /* Pods-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		610A66FB38DDA971BDEBB1CD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E81613F6943C4D1E73A8B024 /* Pods-SwiftyJSON-dummy.m in Sources */,
+				ADE4D07B7103ABEF0A72C4DA /* SwiftyJSON.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		829F7A60B746E822F29748FF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				890FAB63E6F997E7163F0051 /* Pods-hotpepper-SwiftyJSON-dummy.m in Sources */,
+				4A9F498DA61749EB83D25406 /* SwiftyJSON.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A5AAA0A356351C6B663E2FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D61F01A013C164F3005958FA /* Pods-hotpepperTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A641D2068E461F95CB644904 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2D6D20EED2DEE6385D0C86D5 /* Pods-hotpepper-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		755FBC21991864EEE086200A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-hotpepper-SwiftyJSON";
+			target = 6F01C32DB8F40C7962911966 /* Pods-hotpepper-SwiftyJSON */;
+			targetProxy = 74F1D081A46357F79B9960D4 /* PBXContainerItemProxy */;
+		};
+		8B39843DDC1E09851FB92A2E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-SwiftyJSON";
+			target = 95577D85B011C4C199782CDD /* Pods-SwiftyJSON */;
+			targetProxy = 5FA99FC61CFDAF81FDA96738 /* PBXContainerItemProxy */;
+		};
+		E919F116C001242373A78D54 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-hotpepperTests-SwiftyJSON";
+			target = 2535FC6980C6E89BD6F32913 /* Pods-hotpepperTests-SwiftyJSON */;
+			targetProxy = 32D74C028EB89EE3812B1394 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		01ABC0B855D0DF87C0F442E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		0515C14FE2149A535C5C6D24 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8CD223988CC16526F0B95851 /* Pods-hotpepper.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepper/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepper/Pods-hotpepper.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_hotpepper;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		0E91F643D1BCE6762C9DDD2F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D6966760D926A63E503CBA1A /* Pods-hotpepper-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepper-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		132E4F5BE3CA13BFAA1A0004 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AC1DE1E81FF14A64FE3EF786 /* Pods-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-SwiftyJSON/Pods-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-SwiftyJSON/Pods-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		215EB2AB82CE9B277C515412 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 34898F66A6889D0187B55753 /* Pods.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods/Pods.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		3429C64E0E38E636B0CFE14B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AC1DE1E81FF14A64FE3EF786 /* Pods-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-SwiftyJSON/Pods-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-SwiftyJSON/Pods-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		43ADE5DB16E383E953B326A9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7FE1D7656847A006B9A18728 /* Pods.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods/Pods.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		48CFE0C16B69874FD9E84AF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_PREPROCESSOR_DEFINITIONS = "RELEASE=1";
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6932830FEEE71596C9B5FFB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D6966760D926A63E503CBA1A /* Pods-hotpepper-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepper-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepper-SwiftyJSON/Pods-hotpepper-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		7CE430408D2B64F087CA3C5A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FD16AC8D5989EB691218A27A /* Pods-hotpepper.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepper/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepper/Pods-hotpepper.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_hotpepper;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		889995C527AC611C48260C05 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6449D559551B811DBE0BAD0D /* Pods-hotpepperTests-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepperTests-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		D4B62258EAEAA7098CC7B90C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6449D559551B811DBE0BAD0D /* Pods-hotpepperTests-SwiftyJSON-Private.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepperTests-SwiftyJSON/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepperTests-SwiftyJSON/Pods-hotpepperTests-SwiftyJSON.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = SwiftyJSON;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		E10802DD2086C4464C845D47 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B51910204DAB44543B1D55F /* Pods-hotpepperTests.debug.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepperTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepperTests/Pods-hotpepperTests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_hotpepperTests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		EE3523D224C12A81BD5561FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DD0C84D5BC37436CFB1513BC /* Pods-hotpepperTests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-hotpepperTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/Pods-hotpepperTests/Pods-hotpepperTests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_NAME = Pods_hotpepperTests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0EB11678520A89235EDD75D6 /* Build configuration list for PBXNativeTarget "Pods-hotpepper-SwiftyJSON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6932830FEEE71596C9B5FFB8 /* Debug */,
+				0E91F643D1BCE6762C9DDD2F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5B09B11D5EA643805D418B4E /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				01ABC0B855D0DF87C0F442E8 /* Debug */,
+				48CFE0C16B69874FD9E84AF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		618213AA85B43D0FFCEED2A1 /* Build configuration list for PBXNativeTarget "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43ADE5DB16E383E953B326A9 /* Debug */,
+				215EB2AB82CE9B277C515412 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B061E78294DBCA20B1D9DDF /* Build configuration list for PBXNativeTarget "Pods-SwiftyJSON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3429C64E0E38E636B0CFE14B /* Debug */,
+				132E4F5BE3CA13BFAA1A0004 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C3076F374B01360C63B5478F /* Build configuration list for PBXNativeTarget "Pods-hotpepperTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E10802DD2086C4464C845D47 /* Debug */,
+				EE3523D224C12A81BD5561FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CDD56882791A50158FC1C8D1 /* Build configuration list for PBXNativeTarget "Pods-hotpepper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7CE430408D2B64F087CA3C5A /* Debug */,
+				0515C14FE2149A535C5C6D24 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F87EA315E1E54061CB4CF5EE /* Build configuration list for PBXNativeTarget "Pods-hotpepperTests-SwiftyJSON" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				889995C527AC611C48260C05 /* Debug */,
+				D4B62258EAEAA7098CC7B90C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0888904C1E76FACAF10DC6A8 /* Project object */;
+}

@@ -1,0 +1,6 @@
+framework module Pods_hotpepper {
+  umbrella header "Pods-hotpepper-umbrella.h"
+
+  export *
+  module * { export * }
+}

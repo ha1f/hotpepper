@@ -7,3 +7,11 @@
 //
 
 import Foundation
+
+class ModelManager{
+    static let locationModel = LocationModel()
+    
+    private init(){
+    }
+    
+}
